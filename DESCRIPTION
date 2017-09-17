@@ -9,3 +9,5 @@ Maintainer: Mengxiao Lin <linmx0130@gmail.com>
 Depends: R (>= 3.1.0), httr
 Description: An unofficial interface of Face++ platform in R. Face++ provideds face detection service. Refer to faceplusplus.com for more details.
 License: MIT + file LICENSE
+URL: https://github.com/linmx0130/r_facepp
+BugReports: https://github.com/linmx0130/r_facepp/issues
