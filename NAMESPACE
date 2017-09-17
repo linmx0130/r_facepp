@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+[^_]$")
+importFrom(httr, POST, content, upload_file)

@@ -1,0 +1,11 @@
+Package: facepp
+Type: Package
+Version: 0.1
+Date: 2017-09-17
+Title: Face++ binding for R
+Authors@R: c(person("Mengxiao", "Lin", email="linmx0130@gmail.com", role = c("aut", "cre")))
+Author: Mengxiao Lin [aut, cre]
+Maintainer: Mengxiao Lin <linmx0130@gmail.com>
+Depends: R (>= 3.1.0), httr
+Description: An unofficial interface of Face++ platform in R. Face++ provideds face detection service. Refer to faceplusplus.com for more details.
+License: MIT + file LICENSE
